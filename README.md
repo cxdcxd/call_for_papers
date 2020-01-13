@@ -16,9 +16,9 @@ IROS 2024                 | ![AE](png/AE.png) Abu Dhabi, United Arab Emirates |
 
 Conference                | City                   | Date (m/d)                              | CFP Closes (m/d)
 ------------------------- | ---------------------- | -------------                           | -------------
-ICRA 2021                 | ![CH](png/CH.png) Xi'an, China                      | 
+ICRA 2021                 | ![CN](png/CN.png) Xi'an, China                      | 
 ICRA 2021                 | ![US](png/US.png) Philadelphia (PA), USA            | 
-ICRA 2023                 | ![UK](png/UK.png) London, United Kingdom            |
+ICRA 2023                 | ![GB](png/GB.png) London, United Kingdom            |
 
 
 
