@@ -32,7 +32,7 @@ ICORR 2019                | ![CA](png/CA.png) Toronto, Canada                   
 
 Conference                | City                   | Date (m/d)                              | CFP Closes (m/d)
 ------------------------- | ---------------------- | -------------                           | -------------
-HRI 2019                  | ![CA](png/CA.png) Xi'an, China                                   | 
+HRI 2019                  | ![CN](png/CN.png) Xi'an, China                                   | 
 HRI 2020                  | ![GB](png/GB.png) Cambrige, United Kingdom                                   | 
 
 
