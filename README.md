@@ -5,5 +5,5 @@ Call for papers related to computer science and robotics
 
 Conference                | City                   | Date (m/d)    | CFP Closes (m/d)
 ------------------------- | ---------------------- | ------------- | -------------
-1                         | 2                      | 3             | 4
+International Conference on Intelligent Robots and Systems (IROS)  | 2                      | 3             | 4
 
