@@ -36,10 +36,11 @@ HRI 2019                  | ![CN](png/CN.png) Xi'an, China                      
 HRI 2020                  | ![GB](png/GB.png) Cambrige, United Kingdom                                   | 
 
 ## Machine Learning and Pattern Recognition (ML)
+# ICPR
 
 Conference                | City                   | Date (m/d)                              | CFP Closes (m/d)
 ------------------------- | ---------------------- | -------------                           | -------------
-ICPR 2020                 |![IT](png/IT.png) Milan, Italy                                    | 
+[ICPR 2020](https://www.micc.unifi.it/icpr2020/)                |![IT](png/IT.png) Milan, Italy                                    | 
 
 
 
